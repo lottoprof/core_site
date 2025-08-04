@@ -1,0 +1,98 @@
+{
+	"game_id":2118,
+    "price":1000,
+	"tile_config":
+	[
+		{"cat":0, "subcat":0, "mult":0,"tripler":false,
+            "bet":[{"tile":0, "count":1}]},	
+		{"cat":1, "subcat":1, "mult":1,"tripler":false, 
+            "bet":[{"tile":1000, "count":1}]},
+
+		{"cat":2, "subcat":1, "mult":2,"tripler":false, 
+            "bet":[{"tile":2000, "count":1}]},
+
+		{"cat":2, "subcat":2, "mult":2,"tripler":false, 
+			"bet":[{"tile":1000, "count":2}]},
+
+		{"cat":3, "subcat":1, "mult":5,"tripler":false, 
+            "bet":[{"tile":5000, "count":1}]},
+
+		{"cat":3, "subcat":2, "mult":5,"tripler":false, 
+			"bet":[{"tile":2000, "count":2}, {"tile":1000, "count":1}]},
+
+        {"cat":3, "subcat":3, "mult":5,"tripler":false, 
+			"bet":[{"tile":1000, "count":3}, {"tile":2000, "count":1}]},
+
+		{"cat":3, "subcat":4, "mult":5,"tripler":false, 
+			"bet":[{"tile":1000, "count":5}]},
+
+		{"cat":3, "subcat":5, "mult":5,"tripler":true, 
+			"bet":[{"tile":1000, "count":3}, {"tile":2000, "count":1}]},
+
+		{"cat":4, "subcat":1, "mult":10,"tripler":false, 
+            "bet":[{"tile":10000, "count":1}]},
+
+		{"cat":4, "subcat":2, "mult":10,"tripler":false, 
+			"bet":[{"tile":2000, "count":5}]},
+
+        {"cat":4, "subcat":3, "mult":10,"tripler":false, 
+			"bet":[{"tile":5000, "count":2}]},
+
+		{"cat":4, "subcat":4, "mult":10,"tripler":false, 
+			"bet":[{"tile":1000, "count":6}, {"tile":2000, "count":2}]},
+
+		{"cat":4, "subcat":5, "mult":10,"tripler":true, 
+			"bet":[{"tile":2000, "count":3}, {"tile":2000, "count":2}]},
+
+		{"cat":5, "subcat":1, "mult":20,"tripler":false, 
+            "bet":[{"tile":20000, "count":1}]},
+
+		{"cat":5, "subcat":2, "mult":20,"tripler":false, 
+			"bet":[{"tile":5000, "count":4}]},
+
+        {"cat":5, "subcat":3, "mult":20,"tripler":false, 
+			"bet":[{"tile":10000, "count":2}]},
+
+		{"cat":5, "subcat":4, "mult":20,"tripler":true, 
+			"bet":[{"tile":5000, "count":3}, {"tile":2000, "count":2}, {"tile":1000, "count":1}]},
+
+		{"cat":5, "subcat":5, "mult":20,"tripler":false, 
+			"bet":[{"tile":5000, "count":3}, {"tile":2000, "count":2}, {"tile":1000, "count":1}]},
+
+		{"cat":6, "subcat":1, "mult":50,"tripler":false, 
+            "bet":[{"tile":5000, "count":1}]},
+
+		{"cat":6, "subcat":2, "mult":50,"tripler":false, 
+			"bet":[{"tile":2000, "count":2}, {"tile":500, "count":2}]},
+
+        {"cat":6, "subcat":3, "mult":50,"tripler":false, 
+			"bet":[{"tile":1000, "count":5}]},
+
+		{"cat":6, "subcat":4, "mult":50,"tripler":false, 
+			"bet":[{"tile":500, "count":6}, {"tile":1000, "count":2}]},
+
+        {"cat":6, "subcat":5, "mult":50,"tripler":true, 
+			"bet":[{"tile":1000, "count":3}, {"tile":500, "count":4}]},
+
+		{"cat":7, "subcat":1, "mult":100,"tripler":false, 
+            "bet":[{"tile":10000, "count":1}]},
+
+		{"cat":7, "subcat":2, "mult":100,"tripler":false, 
+			"bet":[{"tile":2000, "count":5}]},
+
+        {"cat":7, "subcat":3, "mult":100,"tripler":true, 
+			"bet":[{"tile":2000, "count":3}, {"tile":1000, "count":4}]},
+
+		{"cat":7, "subcat":4, "mult":100,"tripler":false, 
+			"bet":[{"tile":1000, "count":6}, {"tile":2000, "count":2}]},
+
+		{"cat":8, "subcat":1, "mult":500,"tripler":false, 
+            "bet":[{"tile":50000, "count":1}]},
+
+		{"cat":8, "subcat":2, "mult":500,"tripler":false, 
+            "bet":[{"tile":10000, "count":5}]},
+
+		{"cat":9, "subcat":1, "mult":5000,"tripler":false, 
+			"bet":[{"tile":500000, "count":1}]}
+		]
+}
